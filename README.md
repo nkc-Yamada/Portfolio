@@ -1,3 +1,3 @@
 # Portfolio
-ポートフォリオのリポジトリです
+ポートフォリオのリポジトリです  
 https://nkc-yamada.github.io/Portfolio/
