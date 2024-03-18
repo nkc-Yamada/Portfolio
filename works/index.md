@@ -25,6 +25,8 @@
 リソース作成、動画編集  
 
 ### 曲げて進め!レーザーダンジョン
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vAu2sqNFRJk?si=jxL4nvV1QPAkAsC1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+
 日本ゲーム大賞2023アマチュア部門に向けて制作した作品です。
 
 チーム人数 6人 (プログラマー6人)  
