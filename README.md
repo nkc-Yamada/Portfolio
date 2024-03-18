@@ -1,6 +1,6 @@
 # Portfolio
 ポートフォリオのリポジトリです  
-https://nkc-yamada.github.io/Portfolio/README.md
+https://nkc-yamada.github.io/Portfolio/
 
 # 一覧
 [自己紹介](/introduce/index.md)  
