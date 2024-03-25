@@ -1,11 +1,11 @@
 # 目次
 - [チーム](#チーム)  
 	- [スライムラッシュ](#スライムラッシュ)  
-	- [曲げて進め！レーザーダンジョン](#曲げて進め!レーザーダンジョン)  
+	- [曲げて進め！レーザーダンジョン](#曲げて進め！レーザーダンジョン)  
 	- [アマツバメ](#アマツバメ)  
 
 - [個人](#個人)  
-	- [CrystalDungeon/クリスタルダンジョン](#CrystalDungeon/クリスタルダンジョン)  
+	- [CrystalDungeon クリスタルダンジョン](#CrystalDungeon クリスタルダンジョン)  
 
 - [その他](#その他)  
 	- [エフェクト制作経験](#エフェクト制作経験)  
@@ -34,7 +34,7 @@
 > 学んだこと  
 初めてプログラム以外の仕事を担当し、他の職種への理解を深める機会となりました。  
 
-### 曲げて進め!レーザーダンジョン
+### 曲げて進め！レーザーダンジョン
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vAu2sqNFRJk?si=jxL4nvV1QPAkAsC1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
 日本ゲーム大賞2023アマチュア部門に向けて制作した作品です。
@@ -78,7 +78,7 @@
 特に、チームメンバーがプログラマのみで制作したことが主な要因でした。次回の制作では、中身にこだわるだけでなく、ゲームを一旦完成させることを重視するべきだと学びました。  
 
 ## 個人
-### CrystalDungeon/クリスタルダンジョン
+### CrystalDungeon クリスタルダンジョン
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J9W-Nrqst0s?si=XtCW_9xZYvChjmC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
 一年次、後期の制作課題として制作した作品です。
