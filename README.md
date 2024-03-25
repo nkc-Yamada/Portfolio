@@ -1,2 +1,2 @@
 # 概要
-https://github.com/nkc-Yamada/Portfolio
+ https://nkc-yamada.github.io/Portfolio/
