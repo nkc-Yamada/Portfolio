@@ -1,14 +1,9 @@
-title: kaze's Portfolio
-description: コーポレートエンジニアの kaze について紹介するページです。
+title: Portfolio
+description: ポートフォリオサイトです。
 markdown: kramdown
-url: "https://kaze3desu.github.io"
-image: /assets/icons/socialpreview.png
+url: "https://github.com/nkc-Yamada/Portfolio"
 
 # for atom feed
-author:
-  name: kaze / Jun Kawahara
-  email: kawahara3.exe@gmail.com
-
 plugins:
   - jemoji
   - jekyll-seo-tag

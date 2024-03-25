@@ -2,22 +2,12 @@ name: kaze / Jun Kawahara
 dp: /assets/icons/kaze.png
 description: "
   <p>
-    コーポレートエンジニアの kaze です。
+    プログラマ志望 25卒の山田です。
   </p>
-  <br/>
-  <p>
-    現在は東京の企業にて、熊本からフルリモートで仕事をしています。
-  </P>
 "
 email: kawahara3.exe@gmail.com
 contact:
   - title: twitter
-    url: https://twitter.com/kaze3desu
+    url: https://twitter.com/nkc_yamada
   - title: github
-    url: https://github.com/kaze3desu
-  - title: note
-    url: https://note.com/kaze3desu
-  - title: youtrust
-    url: https://youtrust.jp/users/kaze3desu
-  - title: email
-    url: mailto:kawahara3.exe@gmail.com
+    url: https://github.com/nkc-Yamada
