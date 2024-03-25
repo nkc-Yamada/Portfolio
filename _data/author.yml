@@ -1,23 +1,23 @@
-name: Sharad Raj
-dp: https://avatars2.githubusercontent.com/u/36638057?s=460&u=0cbe4fd6b5a3655d91b3eb86db834d0829a0c086&v=4
+name: kaze / Jun Kawahara
+dp: /assets/icons/kaze.png
 description: "
   <p>
-    Developed by Sharad Raj who lives in India building useful things for the world.
+    コーポレートエンジニアの kaze です。
   </p>
   <br/>
   <p>
-    You should follow him on <a href='https://github.com/sharadcodes' target='_blank'>Github</a>
+    現在は東京の企業にて、熊本からフルリモートで仕事をしています。
   </P>
 "
-email: dev_sharad@outlook.com
+email: kawahara3.exe@gmail.com
 contact:
-  - title: linkedin
-    url: https://www.linkedin.com/in/srsmaurya
-  - title: github
-    url: https://github.com/sharadcodes
   - title: twitter
-    url: https://twitter.com/iamsharadraj
-  - title: dev
-    url: https://dev.to/sharadcodes
+    url: https://twitter.com/kaze3desu
+  - title: github
+    url: https://github.com/kaze3desu
+  - title: note
+    url: https://note.com/kaze3desu
+  - title: youtrust
+    url: https://youtrust.jp/users/kaze3desu
   - title: email
-    url: mailto:dev_sharad@outlook.com
+    url: mailto:kawahara3.exe@gmail.com

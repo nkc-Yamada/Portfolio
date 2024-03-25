@@ -1,10 +1,13 @@
-title: Jekyll Serial Programmer
+title: kaze's Portfolio
+description: コーポレートエンジニアの kaze について紹介するページです。
 markdown: kramdown
+url: "https://kaze3desu.github.io"
+image: /assets/icons/socialpreview.png
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: kaze / Jun Kawahara
+  email: kawahara3.exe@gmail.com
 
 plugins:
   - jemoji
