@@ -153,11 +153,17 @@ C#を中心に勉強しています。
 
 
 ### その他
+### シェーダー制作経験
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TnslPO6dUsg?si=uSj5nA_sXPzCxfAp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+>こだわり  
+水の表現にこだわりました。  
+HLSLを使用して海や他の水面を再現することにしました。水はオブジェクトまでの距離によって浅く見えるため、色を変えて再現し、さらに、色や範囲をインスペクターから調整できるように調整する値を外に出して、簡単にあとから変えられるようにしました。また、ノイズの強さや水の色も調節可能にしました。
+
+
 #### エフェクト制作経験
 ![gif](https://github.com/nkc-Yamada/Portfolio/blob/main/images/effect.gif?raw=true)
 
-### シェーダー制作経験
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TnslPO6dUsg?si=uSj5nA_sXPzCxfAp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 # 好きな事
 - [趣味](#趣味)  
