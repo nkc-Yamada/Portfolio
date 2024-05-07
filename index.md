@@ -21,15 +21,15 @@ C#を中心に勉強しています。
 
 ## 使用できる言語/ツール
 
-| 言語/ツール | 習熟度 | 備考                                             |
-| ----------- | ------ | ------------------------------------------------ |
-| C#          | ★★★★☆  | 基本的な機能は十分理解しています                 |
-| Unity       | ★★★★☆  | 基本的な機能は十分理解しています                 |
-| C++         | ★★☆☆☆  | 授業で使ったことがある程度です                   |
-| DirectX     | ★★☆☆☆  | 授業で使ったことがある程度です                   |
-| HTML/CSS    | ★★☆☆☆  | 授業で使ったことがある程度です                   |
-| HLSL        | ★★☆☆☆  | 水面のシェーダーを実装したことがあります         |
-| GitHub      | ★★☆☆☆  | 基本的にプロジェクトの管理はGitHubで行っています |
+| 言語/ツール | 習熟度 | 備考                                                        |
+| ----------- | ------ | ----------------------------------------------------------- |
+| C#          | ★★★★☆  | 基本的な機能は十分理解しています                            |
+| Unity       | ★★★★☆  | 基本的な機能は十分理解しています                            |
+| C++         | ★★☆☆☆  | 授業で使ったことがある程度です                              |
+| DirectX     | ★★☆☆☆  | 授業で使ったことがある程度です                              |
+| HTML/CSS    | ★★☆☆☆  | 授業で使ったことがある程度です                              |
+| HLSL        | ★★☆☆☆  | 水面のシェーダーを実装したことがあります                    |
+| GitHub      | ★★☆☆☆  | 基本的にプロジェクトの管理はGitHub/SourceTreeで行っています |
 
 
 # 将来像
@@ -157,8 +157,7 @@ C#を中心に勉強しています。
 ![gif](https://github.com/nkc-Yamada/Portfolio/blob/main/images/effect.gif?raw=true)
 
 ### シェーダー制作経験
-![gif](https://github.com/nkc-Yamada/Portfolio/blob/main/images/shader.gif?raw=true)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TnslPO6dUsg?si=uSj5nA_sXPzCxfAp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 # 好きな事
 - [趣味](#趣味)  
