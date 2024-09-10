@@ -57,7 +57,7 @@ C#を中心に勉強しています。
 	- [アマツバメ](#アマツバメ)  
 	- [曲げて進め!レーザーダンジョン](#曲げて進め!レーザーダンジョン)  
 	- [スライムラッシュ](#スライムラッシュ)  
-	- [クルドラ（仮）](#クルドラ（仮）)  
+	- [クルドラ](#クルドラ)  
 
 
 - [個人](#個人)  
@@ -132,7 +132,7 @@ C#を中心に勉強しています。
 > 学んだこと  
 初めてプログラム以外の仕事を担当し、他の職種への理解を深める機会となりました。  
 
-### クルドラ（仮）
+### クルドラ
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8h7nWBXW1PY?si=QRdVH8dzKCeWiZpz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 チーム人数5人(プログラマ5人)  
@@ -150,6 +150,7 @@ C#を中心に勉強しています。
 
 > 学んだこと  
 > R3という最新のライブラリに触れられた  
+
 ## 個人
 ### CrystalDungeonクリスタルダンジョン
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J9W-Nrqst0s?si=XtCW_9xZYvChjmC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
